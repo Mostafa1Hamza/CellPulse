@@ -223,7 +223,3 @@ CellPulse reflects my interest in combining telecom domain knowledge with softwa
 <p align="center">
   <strong>CellPulse — Turning Network Data into Actionable Engineering Insights</strong>
 </p>
-
-<p align="center">
-  <sub>Independent engineering project. Not affiliated with or endorsed by Ericsson, Huawei, Vodafone, or VOIS.</sub>
-</p>
