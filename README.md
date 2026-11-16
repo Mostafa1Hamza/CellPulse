@@ -1,4 +1,15 @@
-# 📊 CellPulse Analytics: Enterprise Telecom Performance & Intelligence Platform
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/17cf0494-c1a8-40c8-b5c7-9fef940119db" alt="CellPulse Logo" width="180" />
+  
+  <h1>CellPulse Analytics</h1>
+  
+  <p>
+    <strong>Enterprise-Grade Telecom KPI Intelligence & Automated Network Diagnostics</strong><br>
+    <em>Specialized for Ericsson Sybase IQ & Cross-Vendor (Huawei) Integration</em>
+  </p>
+</div>
+
+<hr> CellPulse Analytics: Enterprise Telecom Performance & Intelligence Platform
 
 **CellPulse** is an enterprise-grade telecommunications analytics platform designed to transform massive volumes of raw network data into instant, actionable intelligence. 
 
